@@ -4,6 +4,6 @@
         "conan": {}
     },
     "include": [
-        "build/Debug/generators/CMakePresets.json"
+        "/Users/Robert/workspace/cpp_projects/chat-server/build/Release/generators/CMakePresets.json"
     ]
 }

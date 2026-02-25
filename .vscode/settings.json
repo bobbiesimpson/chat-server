@@ -75,10 +75,5 @@
     "source_location": "cpp",
     "shared_mutex": "cpp"
   },
-  "cpplint.excludes": ["proto/*", "python-client*", "build/*"],
-
-  "cmake.configureSettings": {
-    "CMAKE_TOOLCHAIN_FILE": "/home/rsimpson/workspace/sandbox/vcpkg/scripts/buildsystems/vcpkg.cmake"
-
-
+  "editor.formatOnSave": true,
 }
