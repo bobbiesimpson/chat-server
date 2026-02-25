@@ -1,0 +1,11 @@
+BasedOnStyle: Google
+Language: Cpp
+IncludeBlocks: Preserve
+IndentWidth: 2
+TabWidth: 2
+ColumnLimit: 80
+SpacesBeforeTrailingComments: 2
+DerivePointerAlignment: false
+PointerAlignment: Left
+ReferenceAlignment: Left
+SortIncludes: false
